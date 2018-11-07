@@ -1,5 +1,5 @@
 {
-    "name": "test/hello-composer",
+    "name": "lauwen/hello-composer",
     "require": {
       "monolog/monolog": "1.0.*"
     }
